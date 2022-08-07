@@ -1,0 +1,13 @@
+{
+	"user":{
+		"mail":{
+			"type":"String",
+			"pattern":""
+		},
+		"password":{
+			"type":"String",
+			"suffix":"_mail",
+			"pattern":""
+		}
+	}
+}
